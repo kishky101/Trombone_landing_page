@@ -246,7 +246,7 @@
       width: 100%;
     }
     .grid:not(:first-of-type) {
-      margin-top: -10rem;
+      margin-top: -8rem;
     }
     .pricing div {
       width: 100%;
